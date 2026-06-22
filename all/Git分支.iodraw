@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_kIad7NB9jc0_wrRXR3p-2" value="&lt;p style=&quot;line-height: 190%;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;v1&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-83" y="-449" width="120" height="60" as="geometry" />
+          <mxGeometry x="-155" y="-355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-3" value="Git分支：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-83" y="-509" width="69" height="26" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="76" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-5" value="v3" style="rounded=1;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="242" y="-449" width="119" height="58" as="geometry" />
+          <mxGeometry x="257" y="-494" width="119" height="58" as="geometry" />
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-7" value="v3" style="rounded=1;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="407" y="-448" width="119" height="58" as="geometry" />
