@@ -167,6 +167,9 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-84" value="master分支（正式版）" style="text;strokeColor=#B20000;align=center;fillColor=#e51400;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-268" y="215" width="82" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-85" value="master分支（正式版）" style="text;strokeColor=#B20000;align=center;fillColor=#e51400;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-258" y="225" width="82" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
