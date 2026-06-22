@@ -113,13 +113,10 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-58" value="v6（开发完毕）" style="rounded=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="436" y="-203" width="136" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-67" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199" y="-383" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-68" value="bug分支：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-304" y="-498" width="93" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-69" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-69" value="dev分支：" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-301" y="-254" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
