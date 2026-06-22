@@ -140,7 +140,7 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-73" target="_kIad7NB9jc0_wrRXR3p-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kIad7NB9jc0_wrRXR3p-77">
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-80" value="合并进master分支" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kIad7NB9jc0_wrRXR3p-77">
           <mxGeometry x="0.0152" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -153,6 +153,11 @@
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.986;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-73" target="_kIad7NB9jc0_wrRXR3p-72">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kIad7NB9jc0_wrRXR3p-76">
+          <mxGeometry x="-0.2352" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
