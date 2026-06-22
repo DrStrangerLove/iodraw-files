@@ -81,11 +81,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-249.199951171875" y="-328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-39" value="" style="whiteSpace=wrap;html=1;fillColor=#008a00;opacity=50;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-237" y="-377" width="978" height="98" as="geometry" />
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-40" value="master:" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-246" y="-375" width="60" height="30" as="geometry" />
+          <mxGeometry x="-232" y="-377" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
