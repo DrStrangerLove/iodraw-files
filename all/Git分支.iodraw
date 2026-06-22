@@ -164,7 +164,7 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.986;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-73" target="_kIad7NB9jc0_wrRXR3p-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-84" value="master分支（正式版）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-84" value="master分支（正式版）" style="text;strokeColor=#B20000;align=center;fillColor=#e51400;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-268" y="215" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
