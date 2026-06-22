@@ -38,7 +38,7 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-5" value="v3（修bug）" style="rounded=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="243" y="-498" width="119" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-7" value="v5（继续开发）" style="rounded=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-7" value="v4（继续开发）" style="rounded=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="-203" width="136" height="58" as="geometry" />
         </mxCell>
         <mxCell id="_kIad7NB9jc0_wrRXR3p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-8" target="_kIad7NB9jc0_wrRXR3p-4">
@@ -52,7 +52,7 @@
         <mxCell id="_kIad7NB9jc0_wrRXR3p-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_kIad7NB9jc0_wrRXR3p-8" target="_kIad7NB9jc0_wrRXR3p-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_kIad7NB9jc0_wrRXR3p-28" value="指向v4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kIad7NB9jc0_wrRXR3p-21">
+        <mxCell id="_kIad7NB9jc0_wrRXR3p-28" value="指向v3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_kIad7NB9jc0_wrRXR3p-21">
           <mxGeometry x="-0.0055" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
