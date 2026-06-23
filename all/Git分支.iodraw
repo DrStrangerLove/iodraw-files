@@ -176,7 +176,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-2" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;v7&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;spacingLeft=0;spacingBottom=-25;align=center;" vertex="1" parent="1">
+        <mxCell id="C42I-WIcOUKC9OTwhoSP-2" value="&lt;p style=&quot;line-height: 100%; padding-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;v7&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;spacingLeft=0;spacingBottom=-25;align=center;" vertex="1" parent="1">
           <mxGeometry x="669" y="-355" width="89" height="60" as="geometry" />
         </mxCell>
       </root>
