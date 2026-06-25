@@ -317,7 +317,7 @@
         <mxCell id="C42I-WIcOUKC9OTwhoSP-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;项目A（斗地主）：&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-301" y="809" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-58" value="项目B（炸金花）：" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C42I-WIcOUKC9OTwhoSP-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;项目B（炸金花）：&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-301" y="877" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
