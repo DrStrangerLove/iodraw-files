@@ -315,7 +315,7 @@
         <mxCell id="C42I-WIcOUKC9OTwhoSP-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="C42I-WIcOUKC9OTwhoSP-44" target="C42I-WIcOUKC9OTwhoSP-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-76" value="code review" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-45">
+        <mxCell id="C42I-WIcOUKC9OTwhoSP-76" value="code review（测试）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-45">
           <mxGeometry x="0.0772" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
