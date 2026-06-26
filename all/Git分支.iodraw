@@ -250,19 +250,6 @@
         <mxCell id="C42I-WIcOUKC9OTwhoSP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="C42I-WIcOUKC9OTwhoSP-30" target="C42I-WIcOUKC9OTwhoSP-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C42I-WIcOUKC9OTwhoSP-30" target="C42I-WIcOUKC9OTwhoSP-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-86" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-79">
-          <mxGeometry x="-0.4025" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-79">
-          <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C42I-WIcOUKC9OTwhoSP-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="678" width="30" height="30" as="geometry" />
         </mxCell>
@@ -342,7 +329,7 @@
         <mxCell id="C42I-WIcOUKC9OTwhoSP-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="C42I-WIcOUKC9OTwhoSP-50" target="C42I-WIcOUKC9OTwhoSP-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-81" value="review成功，上线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-51">
+        <mxCell id="C42I-WIcOUKC9OTwhoSP-81" value="code review成功，上线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C42I-WIcOUKC9OTwhoSP-51">
           <mxGeometry x="0.1863" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
