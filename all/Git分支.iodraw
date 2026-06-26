@@ -354,11 +354,11 @@
         <mxCell id="C42I-WIcOUKC9OTwhoSP-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;dev：&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-296" y="751" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C42I-WIcOUKC9OTwhoSP-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;项目A（斗地主）：&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-301" y="809" width="78" height="30" as="geometry" />
+        <mxCell id="C42I-WIcOUKC9OTwhoSP-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;项目A&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（斗地主）：&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-301" y="809" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C42I-WIcOUKC9OTwhoSP-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;项目B&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（炸金花）：&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-301" y="877" width="78" height="30" as="geometry" />
+          <mxGeometry x="-301" y="877" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C42I-WIcOUKC9OTwhoSP-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="C42I-WIcOUKC9OTwhoSP-59" target="C42I-WIcOUKC9OTwhoSP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
